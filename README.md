@@ -27,6 +27,6 @@ My part of work.
 * Snake "game" (you cannot eat food here)
 
 ### Other information
-Date of project completion - August 2014
+Date of project completion - March 2013
 
 In the extras folder there is the source code of the Windows application pretending to be a binary clock.
